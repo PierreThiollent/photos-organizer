@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Editor
+.vscode
+
+# Benchmark dataset (20 000 files, ~78 MB)
+benchmark-photos
+
+# Build artifacts
+rust/target
+go/tri-photos
